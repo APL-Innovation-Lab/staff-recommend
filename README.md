@@ -12,7 +12,6 @@ This guide provides instructions on setting up a Drupal site with a "Staff Recom
 Install the following modules:
 - Search API
 - Facets
-- RESTful Web Services (for JSON import)
 
 You can install these modules via the Drupal UI or using Drush:
 ```bash
